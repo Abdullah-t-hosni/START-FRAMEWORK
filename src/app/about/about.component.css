@@ -1,0 +1,12 @@
+#about{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background: #1ABC9C;
+    color: white;
+
+}

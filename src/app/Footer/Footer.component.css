@@ -1,0 +1,21 @@
+
+.footer{
+    background-color: #2C3E50;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    background-color: #1A252F;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+   
+}
+
+.card
+{
+    background-color: #2C3E50;
+    color: white;
+    border: none !important;
+}

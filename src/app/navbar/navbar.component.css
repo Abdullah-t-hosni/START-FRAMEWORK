@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #2C3E50;
+    padding: 10px;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 30px;
+}
+
+.nav-item a{
+    color: white;
+    font-size: 20px;
+    padding-inline: 10px;
+
+}
+    
+.bg-primary{
+    background-color: #1ABC9C !important;
+    border-radius: 45px;
+}
